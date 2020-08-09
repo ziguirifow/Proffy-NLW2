@@ -57,6 +57,6 @@
 
 > \$ yarn install
 
-<h4>Running the application</h4>
+<h4>Running the application separately (web, mobile or server)</h4>
 
 > \$ npm start
