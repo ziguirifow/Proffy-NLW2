@@ -47,7 +47,7 @@
 </p>
 <h4>Cloning repository</h4>
 
-> \$ git clone https://github.com/ziguirifow/ProffyNLW2.git
+> \$ git clone https://github.com/ziguirifow/Proffy-NLW2
 
 <h4>Installing dependencies</h4>
 
@@ -57,6 +57,6 @@
 
 > \$ yarn install
 
-<h4>Running the application</h4>
+<h4>Running the application separately (web, mobile or server)</h4>
 
 > \$ npm start
