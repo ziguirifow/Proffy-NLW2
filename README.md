@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://github.com/ziguirifow/Proffy-NLW2/blob/master/media/logo.png">
+</p>
+
+<div align="center">
+
+![Proffy gif](https://github.com/ziguirifow/Proffy-NLW2/blob/master/media/Proffy.gif)
+
+</div>
+
 <h1 align="center">Educational Platform</h1>
 
 ## :pushpin: Table of contents
