@@ -47,7 +47,7 @@
 </p>
 <h4>Cloning repository</h4>
 
-> \$ git clone https://github.com/ziguirifow/ProffyNLW2.git
+> \$ git clone https://github.com/ziguirifow/Proffy-NLW2
 
 <h4>Installing dependencies</h4>
 
